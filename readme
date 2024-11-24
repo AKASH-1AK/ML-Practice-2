@@ -36,7 +36,6 @@ A regression model to predict wine quality based on physicochemical tests.
 
 Repository Structure
 Each project is organized in its respective folder and includes:
-
 Python scripts or Jupyter notebooks with the implementation.
 Relevant documentation detailing the problem statement, methodology, and results.
 Preprocessed datasets or links to the original datasets.
